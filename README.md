@@ -55,7 +55,7 @@ Customize your experience with rich configuration options accessible anytime via
    
 git clone https://github.com/Rywent/Console-folder-analyzer.git
 
-2. Open in Visual Studio or any IDE supporting .NET 6+
+2. Open in Visual Studio or any IDE supporting .NET 8
 3. Build the solution
 4. Run from console or IDE and follow the interactive menu
 
