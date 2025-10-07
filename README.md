@@ -8,10 +8,10 @@ A convenient console tool for recursive visualization of folder and file structu
 
 - Recursive tree display of folders and files
 - Color coding by file/folder size:
-  - 🟢 Green — up to 100 MB (small)
-  - 🟡 Yellow — 100 MB to 1 GB (medium)
-  - 🟠 Orange — 1 GB to 5 GB (large)
-  - 🔴 Red — over 5 GB (very large)
+  - 🟢 Green - up to 100 MB (small)
+  - 🟡 Yellow - 100 MB to 1 GB (medium)
+  - 🟠 Orange - 1 GB to 5 GB (large)
+  - 🔴 Red - over 5 GB (very large)
 - Size displayed next to each item (bytes, MB, GB)
 - Auto-detection of folders and files based on extension existence
 - Empty folders (0 bytes) highlighted (⚪️)
@@ -24,12 +24,12 @@ A convenient console tool for recursive visualization of folder and file structu
 
 ## Supported Commands
 
-- `all file info in *name folder*` — Info about all files in a folder
-- `all file info in all folders *name folder*` — Recursive info about all files in folder and subfolders
-- `info *name file*` — Info about a specific file
-- `info *name folder*` — Info about a folder
-- `to *name folder*` — Change to specified folder
-- `back` — Go back or exit current view
+- `all file info in *name folder*` - Info about all files in a folder
+- `all file info in all folders *name folder*` - Recursive info about all files in folder and subfolders
+- `info *name file*` - Info about a specific file
+- `info *name folder*` - Info about a folder
+- `to *name folder*` - Change to specified folder
+- `back` - Go back or exit current view
 
 ---
 
