@@ -69,10 +69,10 @@ git clone https://github.com/Rywent/Console-folder-analyzer.git
 ---
 
 ## Example Output
-
+```text
 ProjectRoot (25GB) 🔴
 ├── SubFolder (2GB) 🟠
 │ ├── file1.txt (3MB) 🟢
 │ └── empty_folder (0B) ⚪️
 └── file_in_root.ext (500MB) 🟡
-
+```
