@@ -76,8 +76,3 @@ ProjectRoot (25GB) 🔴
 │ └── empty_folder (0B) ⚪️
 └── file_in_root.ext (500MB) 🟡
 
-## Contribution
-
-Always open for contributions! Feel free to open issues or submit pull requests with your ideas or fixes.
-
-Thank you for using **Console Folder Analyzer**!
